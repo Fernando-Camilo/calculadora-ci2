@@ -15,7 +15,7 @@ def subtracao(a: Numero, b: Numero) -> Numero:
 
 def multiplicacao(a: Numero, b: Numero) -> Numero:
     """Retorna a multiplicação entre dois números."""
-    return a * b
+    return b * b
 
 
 def divisao(a: Numero, b: Numero) -> Numero:
